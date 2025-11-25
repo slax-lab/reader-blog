@@ -3,11 +3,16 @@ title = 'Slax Reader: Your Ultimate Read It Later Companion'
 date = '2025-01-01'
 showToc = true
 TocOpen = true
+draft = true
 +++
 
 Are you overwhelmed by the endless stream of articles, stories, and reports you want to read but can't find the time for? Meet Slax Reader, the next-generation "read it later" solution designed to streamline your reading experience across all your devices.
 
 ## ✨ Key Highlights
+
+URL: https://x.com/SanDiegoZoo/status/1453110110599868418
+
+{{< x user="SanDiegoZoo" id="1453110110599868418" >}}
 
 1. Content Caching: Worried about content disappearing or links breaking? Slax Reader caches all your saved content, ensuring you have permanent access—even offline.
 
@@ -34,6 +39,10 @@ Are you overwhelmed by the endless stream of articles, stories, and reports you 
 6. AI Q&A: Engage interactively with your content through AI-driven questions and answers to deepen your understanding.
 
 ## 🌟 Why Choose Slax Reader?
+
+URL: https://www.youtube.com/watch?v=0RKpf3rK57I
+
+{{< youtube 0RKpf3rK57I >}}
 
 Slax Reader isn't just another bookmarking tool — it's a holistic reading companion designed to enrich your interaction with content. With a focus on simplicity and powerful AI features, Slax Reader transforms the way you save, read, and understand information.
 
